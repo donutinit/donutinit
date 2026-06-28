@@ -2,7 +2,7 @@
   <defs>
     <filter id="grain">
       <feTurbulence type="fractalNoise" baseFrequency=".74 .96" numOctaves="4" seed="29">
-        <animate attributeName="seed" values="29;83;12;64;37;29" dur="1.25s" repeatCount="indefinite"/>
+        <animate attributeName="seed" values="29;83;12;64;37;51;96;18;29" dur=".72s" calcMode="discrete" repeatCount="indefinite"/>
       </feTurbulence>
       <feColorMatrix type="saturate" values=".2"/>
       <feComponentTransfer>
@@ -12,7 +12,7 @@
 
     <filter id="warp" x="-15%" y="-15%" width="130%" height="130%">
       <feTurbulence type="turbulence" baseFrequency=".011 .026" numOctaves="2" seed="8" result="t">
-        <animate attributeName="baseFrequency" values=".011 .026;.018 .018;.009 .032;.011 .026" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="baseFrequency" values=".011 .026;.024 .012;.006 .04;.031 .018;.013 .033;.011 .026" dur=".96s" calcMode="discrete" repeatCount="indefinite"/>
       </feTurbulence>
       <feDisplacementMap in="SourceGraphic" in2="t" scale="32" xChannelSelector="R" yChannelSelector="G"/>
     </filter>
@@ -59,70 +59,87 @@
 
   <g opacity=".72">
     <polygon points="18,74 316,28 438,156 176,232" fill="url(#chromatic-a)" opacity=".15">
-      <animateTransform attributeName="transform" type="rotate" values="0 228 130;11 228 130;-7 228 130;0 228 130" dur="9s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 228 130;18 228 130;-14 228 130;31 228 130;-6 228 130;0 228 130" dur="1.04s" calcMode="discrete" repeatCount="indefinite"/>
     </polygon>
     <polygon points="486,32 718,78 632,258 402,204" fill="url(#chromatic-b)" opacity=".17">
-      <animateTransform attributeName="transform" type="rotate" values="0 560 146;-13 560 146;8 560 146;0 560 146" dur="8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 560 146;-22 560 146;15 560 146;-9 560 146;27 560 146;0 560 146" dur=".88s" calcMode="discrete" repeatCount="indefinite"/>
     </polygon>
     <polygon points="802,42 1240,118 1092,294 742,224" fill="url(#chromatic-a)" opacity=".14">
-      <animateTransform attributeName="transform" type="rotate" values="0 996 168;9 996 168;-10 996 168;0 996 168" dur="10.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 996 168;17 996 168;-18 996 168;6 996 168;-25 996 168;0 996 168" dur=".92s" calcMode="discrete" repeatCount="indefinite"/>
     </polygon>
     <polygon points="-42,338 218,250 388,410 94,512" fill="url(#chromatic-b)" opacity=".18">
-      <animateTransform attributeName="transform" type="rotate" values="0 172 388;-10 172 388;7 172 388;0 172 388" dur="9.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 172 388;-19 172 388;13 172 388;-31 172 388;8 172 388;0 172 388" dur="1.08s" calcMode="discrete" repeatCount="indefinite"/>
     </polygon>
     <polygon points="438,336 704,256 836,474 526,518" fill="url(#chromatic-a)" opacity=".16">
-      <animateTransform attributeName="transform" type="rotate" values="0 632 392;12 632 392;-6 632 392;0 632 392" dur="7.6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 632 392;24 632 392;-11 632 392;18 632 392;-27 632 392;0 632 392" dur=".8s" calcMode="discrete" repeatCount="indefinite"/>
     </polygon>
     <polygon points="860,318 1168,252 1250,466 946,520" fill="url(#chromatic-b)" opacity=".16">
-      <animateTransform attributeName="transform" type="rotate" values="0 1042 396;-8 1042 396;12 1042 396;0 1042 396" dur="8.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 1042 396;-16 1042 396;22 1042 396;-28 1042 396;9 1042 396;0 1042 396" dur=".98s" calcMode="discrete" repeatCount="indefinite"/>
     </polygon>
   </g>
 
   <g fill="none" stroke-linecap="round" filter="url(#aura)">
     <path d="M-46 176C112 124 184 298 324 198S526 48 672 212 904 354 1038 210 1158 112 1258 166" stroke="url(#chromatic-a)" stroke-width="3" stroke-dasharray="2 24">
-      <animate attributeName="stroke-dashoffset" values="0;-520" dur="4.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".2;.95;.35;.72;.2" dur="6.5s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dashoffset" values="0;-120;-420;-60;-520;0" dur=".7s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".1;.98;.25;.72;.04;.86;.1" dur=".7s" calcMode="discrete" repeatCount="indefinite"/>
     </path>
     <path d="M-54 306C92 404 210 180 344 314S598 448 724 272 912 142 1058 292 1198 382 1268 288" stroke="url(#chromatic-b)" stroke-width="5" stroke-dasharray="18 34">
-      <animate attributeName="stroke-dashoffset" values="0;640" dur="6.2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".82;.24;.64;.18;.82" dur="7.1s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dashoffset" values="0;180;640;92;420;0" dur=".84s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".92;.18;.76;.08;.64;.34;.92" dur=".84s" calcMode="discrete" repeatCount="indefinite"/>
     </path>
     <path d="M86 262 180 218 246 332 337 162 466 304 548 192 650 350 766 154 852 314 970 236 1112 278" stroke="#f8fafc" stroke-width="1.4" stroke-opacity=".34" stroke-dasharray="1 17">
-      <animate attributeName="stroke-dashoffset" values="0;-220" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dashoffset" values="0;-40;-220;-88;-160;0" dur=".52s" calcMode="discrete" repeatCount="indefinite"/>
     </path>
   </g>
 
   <g opacity=".88">
     <rect x="94" y="74" width="226" height="9" fill="#00e5ff">
-      <animate attributeName="x" values="94;146;74;94" dur="2.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".12;.86;.28;.12" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="94;686;146;998;74;412;94" dur=".62s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".08;.94;.22;.74;.04;.88;.08" dur=".62s" calcMode="discrete" repeatCount="indefinite"/>
     </rect>
     <rect x="756" y="126" width="78" height="7" fill="#39ff14">
-      <animate attributeName="x" values="756;828;720;756" dur="1.9s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".22;.92;.16;.22" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="756;228;828;52;720;1012;756" dur=".5s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".12;.86;.04;.95;.2;.68;.12" dur=".5s" calcMode="discrete" repeatCount="indefinite"/>
     </rect>
     <rect x="872" y="378" width="238" height="11" fill="#ff2f92">
-      <animate attributeName="x" values="872;802;918;872" dur="3.1s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".16;.78;.3;.16" dur="3.1s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="872;88;802;544;918;236;872" dur=".68s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".1;.82;.24;.96;.16;.58;.1" dur=".68s" calcMode="discrete" repeatCount="indefinite"/>
     </rect>
     <rect x="412" y="448" width="102" height="8" fill="#ffb703">
-      <animate attributeName="x" values="412;470;388;412" dur="2.2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".24;.82;.18;.24" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="412;1040;470;112;388;690;412" dur=".58s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".14;.88;.06;.74;.28;.94;.14" dur=".58s" calcMode="discrete" repeatCount="indefinite"/>
     </rect>
   </g>
 
   <g opacity=".54" filter="url(#aura)">
     <polygon points="238,196 284,154 318,238 258,266" fill="#7c3aed">
-      <animateTransform attributeName="transform" type="rotate" values="0 278 214;42 278 214;-18 278 214;0 278 214" dur="10s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".16;.62;.28;.16" dur="5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 278 214;70 278 214;-42 278 214;18 278 214;-86 278 214;0 278 214" dur=".78s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".08;.72;.16;.94;.24;.58;.08" dur=".78s" calcMode="discrete" repeatCount="indefinite"/>
     </polygon>
     <polygon points="614,96 704,134 662,218 568,176" fill="#06b6d4">
-      <animateTransform attributeName="transform" type="rotate" values="0 636 156;-36 636 156;24 636 156;0 636 156" dur="8.7s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".18;.7;.32;.18" dur="4.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 636 156;-66 636 156;38 636 156;-22 636 156;91 636 156;0 636 156" dur=".86s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".1;.86;.18;.62;.04;.74;.1" dur=".86s" calcMode="discrete" repeatCount="indefinite"/>
     </polygon>
     <polygon points="836,280 954,242 1014,348 884,392" fill="#f97316">
-      <animateTransform attributeName="transform" type="rotate" values="0 925 318;26 925 318;-30 925 318;0 925 318" dur="9.4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".12;.58;.24;.12" dur="6.1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 925 318;48 925 318;-58 925 318;24 925 318;-12 925 318;0 925 318" dur=".74s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".06;.64;.12;.82;.2;.5;.06" dur=".74s" calcMode="discrete" repeatCount="indefinite"/>
     </polygon>
+  </g>
+
+  <g>
+    <rect width="1200" height="520" rx="28" fill="#f8fafc" opacity="0">
+      <animate attributeName="opacity" values=".02;.62;.04;.74;.08;.48;.0;.66;.02" dur=".72s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+    <rect width="1200" height="520" rx="28" fill="#02030a" opacity="0">
+      <animate attributeName="opacity" values=".56;.04;.72;.02;.46;.08;.82;.0;.56" dur=".72s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-180" y="34" width="540" height="16" fill="#ffffff" opacity="0">
+      <animate attributeName="x" values="-180;760;128;1040;320;-60;-180" dur=".48s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".0;.38;.08;.52;.14;.7;.0" dur=".48s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+    <rect x="900" y="468" width="420" height="12" fill="#05070d" opacity="0">
+      <animate attributeName="x" values="900;28;640;180;1048;520;900" dur=".4s" calcMode="discrete" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".7;.04;.46;.12;.84;.2;.7" dur=".4s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>
