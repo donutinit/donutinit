@@ -33,18 +33,16 @@ una transmisión que no sabe si quiere ser archivo, altar o amenaza.
 
 ---
 
-## tech stack
+### 🛠 &nbsp;Tech Stack
 
-<p align="center">
-  <img alt="Pelear con Molinos" src="https://img.shields.io/badge/Pelear%20con%20Molinos-111111?style=for-the-badge">
-  <img alt="Entregarme a Dios" src="https://img.shields.io/badge/Entregarme%20a%20Dios-4c1d95?style=for-the-badge">
-  <img alt="Perseguir la Virtud" src="https://img.shields.io/badge/Perseguir%20la%20Virtud-166534?style=for-the-badge">
-  <img alt="Amar con el corazón" src="https://img.shields.io/badge/Amar%20con%20el%20coraz%C3%B3n-be123c?style=for-the-badge">
-  <img alt="Crear" src="https://img.shields.io/badge/Crear-ca8a04?style=for-the-badge">
-  <img alt="Davinci Resolve" src="https://img.shields.io/badge/Davinci%20Resolve-233a8b?style=for-the-badge&logo=davinciresolve&logoColor=white">
-  <img alt="nvim" src="https://img.shields.io/badge/nvim-2f855a?style=for-the-badge&logo=neovim&logoColor=white">
-  <img alt="Bare Metal Servers" src="https://img.shields.io/badge/Bare%20Metal%20Servers-374151?style=for-the-badge">
-</p>
+![Pelear con Molinos](https://img.shields.io/badge/-Pelear%20con%20Molinos-05122A?style=flat)&nbsp;
+![Entregarme a Dios](https://img.shields.io/badge/-Entregarme%20a%20Dios-05122A?style=flat)&nbsp;
+![Perseguir la Virtud](https://img.shields.io/badge/-Perseguir%20la%20Virtud-05122A?style=flat)&nbsp;
+![Amar con el corazón](https://img.shields.io/badge/-Amar%20con%20el%20coraz%C3%B3n-05122A?style=flat)&nbsp;
+![Crear](https://img.shields.io/badge/-Crear-05122A?style=flat)&nbsp;
+![Davinci Resolve](https://img.shields.io/badge/-Davinci%20Resolve-05122A?style=flat&logo=davinciresolve&logoColor=white)&nbsp;
+![nvim](https://img.shields.io/badge/-nvim-05122A?style=flat&logo=neovim&logoColor=57A143)&nbsp;
+![Bare Metal Servers](https://img.shields.io/badge/-Bare%20Metal%20Servers-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
 ---
 
