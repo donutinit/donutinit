@@ -1,19 +1,41 @@
-### Tech Stack
-
 <p align="center">
-  <img alt="Ẹ̸͖n̯tr̤eg̱a͈r͓mȩ a D̰i̩͎os͈̙" src="https://img.shields.io/badge/-Pelear%20con%20Molinos-ef4444?style=flat&logoColor=white">&nbsp;
-  <img alt="Entregarme a Dios" src="https://img.shields.io/badge/-Entregarme%20a%20Dios-8b5cf6?style=flat&logoColor=white">&nbsp;
-  <img alt="Perseguir la Virtud" src="https://img.shields.io/badge/-Perseguir%20la%20Virtud-22c55e?style=flat&logoColor=white">&nbsp;
-  <img alt="Amar con el corazón" src="https://img.shields.io/badge/-Amar%20con%20el%20coraz%C3%B3n-ec4899?style=flat&logoColor=white">&nbsp;
-  <img alt="Crear" src="https://img.shields.io/badge/-Crear-f59e0b?style=flat&logoColor=white">&nbsp;
-  <img alt="Davinci Resolve" src="https://img.shields.io/badge/-Davinci%20Resolve-2563eb?style=flat&logo=davinciresolve&logoColor=white">&nbsp;
-  <img alt="nvim" src="https://img.shields.io/badge/-nvim-16a34a?style=flat&logo=neovim&logoColor=white">&nbsp;
-  <img alt="Bare Metal Servers" src="https://img.shields.io/badge/-Bare%20Metal%20Servers-64748b?style=flat&logo=linux&logoColor=white">&nbsp;
+  <img src="./banner.svg" width="100%" alt="hoja de contacto — tira de negativos con fotografías de donutinit">
 </p>
 
 <p align="center">
-  <img src="./noise.svg" width="100%" alt="">
+  <sub><b>artista antes que programador.</b> el código nomás es otra cámara.</sub><br>
+  <sub>fotografía &nbsp;·&nbsp; video &nbsp;·&nbsp; fierro propio</sub>
 </p>
+
+<p align="center"><img src="./rule.svg" width="100%" alt=""></p>
+
+<h6 align="center">lo que persigo</h6>
+
+<p align="center">
+  <img alt="Pelear con Molinos" src="https://img.shields.io/badge/-Pelear%20con%20Molinos-b23a2f?style=flat-square">&nbsp;
+  <img alt="Entregarme a Dios" src="https://img.shields.io/badge/-Entregarme%20a%20Dios-cabfa9?style=flat-square">&nbsp;
+  <img alt="Perseguir la Virtud" src="https://img.shields.io/badge/-Perseguir%20la%20Virtud-5c6b52?style=flat-square">&nbsp;
+  <img alt="Amar con el corazón" src="https://img.shields.io/badge/-Amar%20con%20el%20coraz%C3%B3n-8c3a4a?style=flat-square">&nbsp;
+  <img alt="Crear" src="https://img.shields.io/badge/-Crear-d9873f?style=flat-square">&nbsp;
+</p>
+
+<h6 align="center">el cuarto oscuro</h6>
+
+<p align="center">
+  <img alt="Davinci Resolve" src="https://img.shields.io/badge/-Davinci%20Resolve-1b1a1e?style=flat-square&logo=davinciresolve&logoColor=d8cfc0">&nbsp;
+  <img alt="nvim" src="https://img.shields.io/badge/-nvim-1b1a1e?style=flat-square&logo=neovim&logoColor=d8cfc0">&nbsp;
+  <img alt="Bare Metal Servers" src="https://img.shields.io/badge/-Bare%20Metal%20Servers-1b1a1e?style=flat-square&logo=linux&logoColor=d8cfc0">&nbsp;
+</p>
+
+<p align="center"><img src="./rule.svg" width="100%" alt=""></p>
+
+<!-- contacto — descomenta y pon tus links
+<p align="center">
+  <a href="https://instagram.com/TU_USUARIO"><img alt="instagram" src="https://img.shields.io/badge/-instagram-1b1a1e?style=flat-square&logo=instagram&logoColor=d8cfc0"></a>&nbsp;
+  <a href="https://vimeo.com/TU_USUARIO"><img alt="vimeo" src="https://img.shields.io/badge/-vimeo-1b1a1e?style=flat-square&logo=vimeo&logoColor=d8cfc0"></a>&nbsp;
+  <a href="mailto:TU@CORREO"><img alt="correo" src="https://img.shields.io/badge/-correo-1b1a1e?style=flat-square&logo=protonmail&logoColor=d8cfc0"></a>
+</p>
+-->
 
 <p align="center">
   <sub>d̶̨̢̘̟̱̳̦̩̱͇̓͌͒̏̑̽͐͘i̴̧̧̢̧̩̩͖̫͍̥̣̣̞̺̖̰͕̪͉̥͇̫̜̮̺̯̲͉͓̙̤̟͙̦̰̙͖̖̪̱̱͐ͅͅơ̸̡̖̝̱͈̖̖̟͓̼̬̟̠͎̱̯̮̓̄̾̈́́́̃̒̂͑͊̊̕͜͠s̵̨̛̰̫̘̼͕̗͍̤͓̤̞̺͕͔̼̜͍̬̪̦̘̦̈́̓̑̅́̿͛̊̒̆̈́̈̂̔̓͊̀͗̉̅̈́̀̄͐̓̀͗̐̎̈́̄͑̂̓̎̾̽̈̂̉̚̚͘̚̚͘͠͠ ̶̢̧̨̘̤͙̞̯̙̺͖͖̣̮̙̠̼̗͔̬̖̮̜̖̝̺̬͚͎̲͚̂̓̽̐̓̈̽̉̈́̀̾͆̂̂͒̕͝ȩ̵̧̧̧̹̬̰͚̞̱̙̟͉͔̲͉̞͖̖̘̝͙͓̰̝̰͓̪̤̼͖̖̣̄̔̿̈́͌̂̅͑̉̄͆̑͆̀̒̆́͑̂̐͗̂͑̕͜͜͜͝͝͝͝͝͝s̴̺̳̺̩̞̬͙̝͕̞̙͓̤̖̺̙̣̻̼͎̝̙͕͍̪͈̜͊̓͆̆͜ͅͅt̸̢̢̨̡̠̠̞̗̣̭̦̫̯̥̞̦̙̮͎͉̠͍̫̰͓͚̻̤̦̖̩̥͓̳̯̗̼̆͌̔̓̃̿̆͒̀̑͛́̊̃͐̀͒͑́̓̑͒̑̇͒́̕͠͝ͅá̸̡̡̨̢̟̖͈̞̘͓̹̥̼̜̠̬͚̥̬̩͈̗̟̠̝̮͙̜͔͎̼̱̤̣͔̺͍͙̟̝̙͉̹̺̠̆̈̇̅̓̆̈͒́̐̾͛̓͘͝͝ ̸̧̧̪̗̻͎͖̜̠͉̙̬͉͓̞͙͕̪̘̗̼̳͙̻͇̰̝̝͍̦̩̰̬͈̥̠͇̺̭̝̥̋̇̓̆̐̃́ͅͅc̶̨̢̢̧̧̨̛̛̜̰͙̪̗̳͇͈̬̝̗͈̤̦̖̦͈̏̑͒̈̈̃̓͂͒̈́́̊͆̑͋͋̍̀͊͆͛̇͑̋̅̈̌̈́̃̄͗́͐̑͒̊̈́͛͘̕͘͘͜͜͝͝͝͝ợ̴̫̺̙͇̻̼͐͑̔̒͂̃͊̂̈̄̒͒͆̂͊̄̊̈́͊͆͊̇̀͑͘̚̚͝͠͝n̴̢̢̧̧̡̹̯̜͈̘̙͕͔̯̟̱̻̲̝̞͕͙͚̣̳̥̟̤̫̙̤͇̗̖̯̰͎̪͓̮̦̝̝̤̜̰͂̄͊̿̎͊͘ͅ ̶̢̨̨̧̛̛̛̮͖̞̼̟̞̣̹̰͉̬̺̫̹͇̟̯̣̗̳̟͍̹̗̝̙̩̞͇͙͔̖̪͙̻͉͕̹̀͛̐́͑́̓̆̉͌̅̀̃͑̀̊̀̍͛̋̽̈̾̒̇̈́̂̑̉͊̀̇̀́͒̐̑͋̆̊̎̕͝͝͝͝n̵̢̨̧̧̛͉̫̘̖̙̹̦̖̠͔̠̦̟̮͖͎͚͎̲͕̩̫̺̫̗̻̮̰̥͙̫̱͔͍̩͍̹̣̲̼̭͎̝̲͆̀̂͒̏̽̌̑́͋̇̓̆̅͑̑̊͌͌͊̿̈̓̈́̃̒͛̉̉̉͛̿͊̊̇̿͗͛̒̊̚̚̕̕͜͝͝͝͠͝ͅǫ̸̡̢̨̛̣͇̘̩̥̱̳̱̤͔̩̮̣̣͕͖̪̗̮̣̖̣͚͚̮͇͇̞̱̺̗͇̥̬̠̘̗̳̭̦̦̻̼̗͋̌́̇̀̀̿̿̿̆̋͑̍̌̓́̎́̌̊́̃̏̍̏͋̾̓̕̚͘ͅͅs̴̨͕͓̻͕͉̯̦̠͓̟̯̯̹͉̥̣̰͙͙̪͋͊̄̌ơ̷̧̡̛̜͙͔̟̗͇͙͚͍̣͉̙̺̪͙͎̳̞̭̪̹͕̩̥̱̖̯͍̦̙͈͕̰̥̱̭̞͚̰̤̖͕̦͆͐̅̑̿̿̇̒̽̔̈̈͊̕̕͘͠͝ͅͅţ̶̮̩͖͔͐̏̒̋̇̓̾̅̔͋̈́͗́̅͝r̸̡̧̧̧̛̻͚̬̰̲͙̮̝̱̮̞̟̬̥̲̭̗͕͓͉͓̮̰̗̱̈̋͂̑̔̎̆͜o̵̧̡̨̨̳͇̼͖̠̙̮̝͔̯͚͍̺̲̲̖͔̖̫̦̘͈̜̘̲̘̟̬̰͎̗͓̤̲̣̟͖̬̺͇̦̭̥̘͈̔̀ͅs̴̡̨̛̹͕̩̫̗͚̹̣͓͇̦̞͖̖̹͎͇̦̦̝̼̳̱͓̤̞̝̦̩̝̬͔͚̪̥̮̘͔̭̭̳̭̟̙̼͒̈̏́̒̀̇̍́̉̈́̅͊̈́̐̏͛̔̈̈́͌͂̀͋̀̕͘͝͠ͅͅ ̴͍̜̜̜̲̦̫͚̍́̓̂̚͝y̷̡̧̢͕̻̩͎̭͍̯̝̦̟͎̳͕̞̭͎͈̠̮͔̝̰̮͍̟̠̺̘̩̲͐̍̑̒̽̽́̄͐͊̿̅̍̇́̏̒͐̏̉̃̃̋̚͜͝͝͠͝͝ͅͅ ̵̡̛̤̫̤͍͔̘̻͉͎͇̤̮̩̋̈́͐͐̅̌͋̍̋̃̈́̊̓̏̈́̌̽̎͊͑͗̒͊͑͐̐̈́̋̎̐̋́̔͊̕͘͝͝ͅȩ̴̧̡̭̞̬̻̬̝͕̝͈͙͓͓͙̪̺̙̙̻̤̭̤̺̪͛̓̔̓̇͋̋̄̎̐̊̔͛͐͐̏͘̕̕͘͜ͅl̶̨̞͖̰͉̳͓͍̙̜̞̥̪̝̱̖͉͈̞̠̼̱̲̩̫͖̯̮̮̱̭̬̠̤̲̜͇̥͖͉͇̙͓̯̠̼̣̜̭̓̒͊̓̀̈́̍̒̏͌͑̈́̑͒̆̋͆͑̆͌̀̌͐͛̍͐̍͒́̀́́͑̀̃́̀̕̚̚͘̚͘͘͠͝ͅ ̵̛͓͕͍̺̠̽̋̀̋̾̍͊̅͗͆́͋̅̓̒̽͊̈́̑̀͗́̊͆̂̃̍̃͒̕͜͝͝͝v̴̢̨̡̢̡̢̢̗̹͍̞͎͔̗̙̩̫̝͓̩̩͔̦̱̭͕͍̲̣̞̩̭̥͉͔̻̪̗̳̟̥̩̟̹̜̥̝̎̏̌̎̃̎̓̌̈́̌̓̑̋̓̆̎͂̏̽̋̇́̄̑̄͂̽̐̓̎̇͗̀͐̓̆̐͘̚͘͘͘͘͘͜͜ͅị̶̡̧̧̢̛̺̳͖̺̼͈̙̭̮͇̜̖̮̜̖̠͕̟͎͉̠̹̘̹͔̜̤͎̥̳͈̯͍̎́̓̍̑̎͌̑̀͊̊͑̍̈̏̄͆͒̊͆͋̀̉͑̊̽̀̔̿̆̅͘͜͜͠͝v̷̧̢̛͉̮̖͕̮͇̱͕̬̬̠̜̬̞̰̗̯͎̼̯̹̝̜̟̎̃̿̔̎̈̀̇̋̓̈́̕ͅe̴̡̨̟̲͉̘̠̹̻̮̤͍͍̤̖̝̫̼͚̣͍̞̼͖̰͕͉̩̺̎̅̈̌͒̀̈́͒̀͑̔̓͗̅̊̓̚̕͜͜͝͝͝ͅ ̷̨̡̢̦̯̖̭̪̗̭̜̦̞̣͉͉̻̭̕ͅͅȩ̸̢̧͇͎̪̜̖̗̮̣̹̲̣̠̻͔͉͍̼͚͖͍̜̖̘̱̮̪̬͔̒̉̾̿͊̓̄͋̐̃̅̏̍̈́̂̕͘͘̕͜͜͠͝͠ͅņ̶̡̧̡̛̞̳̭̯̻͕͍̙̘̤̜̝͔̫̠͉̼̘̯̺̫̜͚̪͖̘̖͇̱͓͚̠̳͆̈́̃́͋̍͂̒̈́̇̔̊̅̀̇̈͆̾̓̓̉́̈́̑̾̚̕͘͜͝ͅͅ ̶̡̨̥̜͙̱̩̣͎̱̙̦̗̗͎̘͓͇̭͕̩̱̜̜͚͖̙̬̗̺̭̲̖̲͉̻̼̮̮͔̦̄̀̽̈́̿̈́̾̿̇̒͂̐͌̒̋̓̔́͂̑̆̈́͘̚͠͝ͅͅͅn̸̼͖̭̝͈̙̫̺͎͔̲̈́̍͋̒̎͗̈́̇̆̓̀̋̒̋̆̿̀̐̍̉͒́̏̕͝͠u̷̡̧̨̡̡̢̢̨̧̞͇͚̳͙̻̹͖̪̯͚͕̫̭̣̬̝̺̮͎̭̝̜̣̮̰̥̪͎̔̄̐́̌̈́̇̒̎̀̾̒̓̈́́̆̅͗̌́̐̆̚̚̕͜͝͠ȩ̴̢̢̡͉̦͈͍͎̫̦͉͚̩̞̼̗͉̹̲̦͖͇̘͔̤̺̠̬͎̻̠̝̲͎̲͚͍̤̘̩̜͖̯̄̏̊̋̏̄̇͑͋̂̊͛͜͠ͅs̸̡̨̨̛̬̯̻͉̣̗̞̮̠̭̝̮̦̮̬̞̮̥̳̤̥̻͉͔̘͙̥̠̬̥͙͕̣̻͇̮̤͚̰̔͑̄̀̅͒͐͑̏͂̏͂̑̎̂͊̀̄͒͘͘̕͝ͅt̸̨̘̪͈̞͚̲̞͎͙͌͊̀͆̑̽̽́̿̈́̿̿̌̏̏͘̕͠r̵̢̢̡̨̢̢̛͚̜͇͔̭̥̳̭̲͉̬̯̳̖̩͖͕̬͙̲̯̲̹̜̗̩̺̰̣̯͇͛̈̊̌̊̍̎̉͋͛͗͋͒̓̊͊͒̆͆̾̋͝o̵̢̨̢̢̼̱̜͙͕̫̠͕̠̳̹̝͈̬̭̻͎̱̲̰̟͕̘̼͓͓͇͐̈́̀̈́̎̾̐͊̇́̔̅́͛̈́́̅̅͐̽̋͆͆̍̈̀̉̕͘͘͠͝͝ͅs̴̢̨͓͇̬̟̖̜̬͎̙̦̙͓̲͇̭̬̩̝̫̬̼͖̜̘̙͕̯̲͓̖͈̬̠͕̖̟̰̞̎͗̃͑͂̐̽̑̎́̏̈̐͌͘͜͜͜ͅ ̸̛̙̯̫̥͚͈̣̗͓̤̠͓̦̗͗̓̾̋̉̊͆̅̀͒̈́̏͋̀̽́̈́͋̅̿̄̚͘̕͝ͅc̷̨̧̛̤̠̮̣̲̰̤̼̠̺̟̜̝͉͚͉̭͕̈̈́̏͂̿͂̂̿́̊̀̈́̎͑͛̑͗͋̓̎̆̀̑̍̇̓͆̓̃̑̈́̌̈́̈̈́̒̕͝͠͝ơ̷̢̢̛̟̱̞͉̣̯͖̗͓͔͖̖̘͉̟͔̰͙̠̼̻͕͔̥̱̞̝̗̙̤̠̯͔̣̝̣̘̲̰̪̩͍̪̿̀͋̓͛͊͂̈̏̃͗́͆̏͆̿͋̈́̍̇̃̏̏̈́͆̽̀̄̑̃̆̓̍͆̏̎̕̚̚͠͝ͅͅŗ̵̨̛͓̹̣͎̲͈͉̥͇͈͇̤͖̞͕̫̦̭̻͎̩͉̗̮̘̪̪̞͇̫̰̳̱̹̹̽̂̐̍̀͊͊̈́̀̂͘͜͜͠á̴̡̡̡̡̧̙̟̮͔͓̣̠͇͉̺̮̼̦̠̰͇̖̮̼̳̘̥͚̜͎̠͉̣͕̥͓͉͍̦̙͙͎̂̊͑̏̀͐̋̈́̏̀͗̔͌̍͛̓̀̃͊̕̕͜͜͝z̵̨̨̡͓̗̰̟̺̝̠̯͉͎̝̣͎̠͔̮̙͎͔͙͙̦͕͉̬͂͌̈̿̀͑̾̽̇̓͠ͅơ̵̡̢̡̨̡̡̤͔͈̘̯̬̯̤̝͎̣̟̻͔͔͍̯̼̗̗̩̬̱̫̞̱̗̤͙̤̺͈͎̫͒̐̈́̋͐̈́͂̒͊̎̋̈̈̎͑͝ͅņ̴̡̡̢̼̠͈̟̬̣̳͓̱͙̖̞̱͎̯̲̼͇͎͗͊̄̄͐ͅḙ̴̺̝͚͐́̈̑̈́͐̀̓̿̃̇͋̀̐̈́͂̃̋̀͝͝͝s̵̢̫̱̺̪̫̜̻̻͔̜̰̦͚̪̗̭̀̅̒̅͒͗̉̉̓̋̓̈́̈́͊̊͆̌̒̉́̓͆͌͒̎̃̎̉̂́̌͑̀̕̚̕͝͝.̷̡̡̛͓͎͉̞͕̞͍͇͉̝͉̗̖̝̖̪͕͕̮̥̥̊̈́̈́͛͐͌̓̉̎̓̇̚͜ͅ</sub>
