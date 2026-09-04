@@ -2,9 +2,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 566" width="1600" height="566" role="img" aria-label="hoja de contacto - donutinit">
 <title>hoja de contacto — donutinit</title>
 <defs>
-<linearGradient id="mesa" x1="0" y1="0" x2="0.35" y2="1">
-  <stop offset="0%" stop-color="#0e0d10"/><stop offset="55%" stop-color="#08080a"/><stop offset="100%" stop-color="#050506"/>
-</linearGradient>
 <linearGradient id="base" x1="0" y1="0" x2="0" y2="1">
   <stop offset="0%" stop-color="#1c1a1e"/><stop offset="18%" stop-color="#141317"/>
   <stop offset="82%" stop-color="#131215"/><stop offset="100%" stop-color="#1b191d"/>
@@ -28,6 +25,10 @@
   <feColorMatrix type="saturate" values="0"/>
   <feComponentTransfer><feFuncA type="table" tableValues="0 0.38"/></feComponentTransfer>
 </filter>
+<filter id="sombra" x="-15%" y="-60%" width="130%" height="240%" color-interpolation-filters="sRGB">
+  <feDropShadow dx="0" dy="0" stdDeviation="1.1" flood-color="#0b0a0c" flood-opacity=".9"/>
+  <feDropShadow dx="0" dy="1.5" stdDeviation="3.5" flood-color="#0b0a0c" flood-opacity=".45"/>
+</filter>
 <clipPath id="tira"><rect x="-10" y="14" width="1620" height="472" rx="3"/></clipPath>
 <clipPath id="c0"><rect x="58" y="102" width="224" height="299" rx="2"/></clipPath>
 <clipPath id="c1"><rect x="310" y="102" width="224" height="299" rx="2"/></clipPath>
@@ -36,7 +37,6 @@
 <clipPath id="c4"><rect x="1066" y="102" width="224" height="299" rx="2"/></clipPath>
 <clipPath id="c5"><rect x="1318" y="102" width="224" height="299" rx="2"/></clipPath>
 </defs>
-<rect width="1600" height="566" fill="url(#mesa)"/>
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 0;0.7 -1.1;-1.1 0.5;0.5 1.2;-0.5 -0.7;0.9 0.3;0 0" dur="1.3s" calcMode="discrete" repeatCount="indefinite"/>
 <g clip-path="url(#tira)">
@@ -262,10 +262,10 @@
 <rect x="-10" y="14" width="1620" height="472" fill="url(#fuga)"/>
 <rect x="-10" y="14" width="1620" height="472" fill="#fff5e2" opacity="0"><animate attributeName="opacity" values="0;0.035;0.005;0.05;0;0.02;0" dur="1.6s" calcMode="discrete" repeatCount="indefinite"/></rect>
 <rect x="-10" y="14" width="1620" height="472" fill="#000000" opacity="0"><animate attributeName="opacity" values="0.06;0;0.09;0.01;0.04;0;0.06" dur="1.9s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<rect x="-10" y="14" width="1620" height="472" filter="url(#grano)" opacity=".62" style="pointer-events:none"/>
 </g>
 </g>
-<text x="58" y="528" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="27" letter-spacing="11" fill="#d8cfc0">donutinit</text>
-<text x="1542" y="528" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="16" letter-spacing="3.5" fill="#6f6c66">hoja de contacto · 16 exp. · rev. en casa</text>
-<rect x="58" y="542" width="1484" height="1" fill="#d8cfc0" opacity=".13"/>
-<rect width="1600" height="566" filter="url(#grano)" opacity=".62" style="pointer-events:none"/>
+<text x="58" y="528" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="27" letter-spacing="11" fill="#d8cfc0" filter="url(#sombra)">donutinit</text>
+<text x="1542" y="528" text-anchor="end" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="16" letter-spacing="3.5" fill="#6f6c66" filter="url(#sombra)">hoja de contacto · 16 exp. · rev. en casa</text>
+<rect x="58" y="542" width="1484" height="1" fill="#8a8681" opacity=".3"/>
 </svg>
