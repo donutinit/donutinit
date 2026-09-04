@@ -22,7 +22,7 @@
 <h6 align="center">el cuarto oscuro</h6>
 
 <p align="center">
-  <img alt="Davinci Resolve" src="https://img.shields.io/badge/-Davinci%20Resolve-1b1a1e?style=flat-square&logo=davinciresolve&logoColor=d8cfc0">&nbsp;
+  <img alt="DaVinci Resolve" src="https://img.shields.io/badge/-DaVinci%20Resolve-1b1a1e?style=flat-square&logo=davinciresolve&logoColor=d8cfc0">&nbsp;
   <img alt="nvim" src="https://img.shields.io/badge/-nvim-1b1a1e?style=flat-square&logo=neovim&logoColor=d8cfc0">&nbsp;
   <img alt="Bare Metal Servers" src="https://img.shields.io/badge/-Bare%20Metal%20Servers-1b1a1e?style=flat-square&logo=linux&logoColor=d8cfc0">&nbsp;
 </p>
