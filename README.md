@@ -32,7 +32,7 @@
 <h6 align="center">artefactos</h6>
 
 <p align="center">
-  <a href="https://github.com/donutinit/teleprompter"><img alt="teleprompter" src="https://img.shields.io/badge/-teleprompter-1b1a1e?style=flat-square&logo=typescript&logoColor=d8cfc0"></a>&nbsp;
+  <a href="https://github.com/donutinit/soliloquio"><img alt="soliloquio" src="https://img.shields.io/badge/-soliloquio-1b1a1e?style=flat-square&logo=typescript&logoColor=d8cfc0"></a>&nbsp;
   <a href="https://tele.vondiego.com"><img alt="tele.vondiego.com" src="https://img.shields.io/badge/-tele.vondiego.com-5c6b52?style=flat-square"></a><br>
   <sub>el guión en el cristal. sin cuentas ni nube: todo se queda en el teléfono, aunque no haya señal.</sub>
 </p>
@@ -41,6 +41,12 @@
   <a href="https://github.com/donutinit/pretendrop"><img alt="pretendrop" src="https://img.shields.io/badge/-pretendrop-1b1a1e?style=flat-square&logo=electron&logoColor=d8cfc0"></a>&nbsp;
   <img alt="a cero decibeles" src="https://img.shields.io/badge/-a%20cero%20decibeles-8c3a4a?style=flat-square"><br>
   <sub>un fondo pretencioso para el set. la música pinta la pared y nadie la oye.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/donutinit/tetratype"><img alt="tetratype" src="https://img.shields.io/badge/-tetratype-1b1a1e?style=flat-square&logo=firefoxbrowser&logoColor=d8cfc0"></a>&nbsp;
+  <img alt="de tecla a tecla" src="https://img.shields.io/badge/-de%20tecla%20a%20tecla-d9873f?style=flat-square"><br>
+  <sub>el cronómetro entre dos teclas. te dice qué letras te frenan y nunca sale del navegador.</sub>
 </p>
 
 <p align="center"><img src="./rule.svg" width="100%" alt=""></p>
