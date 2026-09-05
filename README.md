@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/donutinit/soliloquio"><img alt="soliloquio" src="https://img.shields.io/badge/-soliloquio-1b1a1e?style=flat-square&logo=typescript&logoColor=d8cfc0"></a>&nbsp;
-  <a href="https://tele.vondiego.com"><img alt="tele.vondiego.com" src="https://img.shields.io/badge/-tele.vondiego.com-5c6b52?style=flat-square"></a><br>
+  <a href="https://soli.vondiego.com"><img alt="tele.vondiego.com" src="https://img.shields.io/badge/-tele.vondiego.com-5c6b52?style=flat-square"></a><br>
   <sub>el guión en el cristal. sin cuentas ni nube: todo se queda en el teléfono, aunque no haya señal.</sub>
 </p>
 
